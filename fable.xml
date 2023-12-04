@@ -32,7 +32,7 @@
       <agent img="programador.png" x="350" y="90" width="100" height="200"/>
       <agent img="pinguim junior.png" x="40" y="90" width="100" height="200"/>
       <agent img="proxima-pagina.png" x="4" y="1" width="50" height="50" on-touch="_NEXT_PAGE" />
-      <agent text="ao amanhecer " color="white" x="15" y="410"/>
+      <agent text="ao amanhecer eles se encontraram e o programador senior propôs o desafio, de imediato o júnior começou a procurar o problema, até que encontrou... " color="white" x="15" y="410"/>
       <agent img="Sign_2.png" x="400" y="1" width="100" height="100" on-touch="_NEXT_PAGE"/>
     
     

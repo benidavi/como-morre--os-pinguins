@@ -39,8 +39,13 @@
      <page background="bg_neve.png" >
       <agent img="pinguim junior.png" x="40" y="90" width="100" height="200"/>
       <agent img="proxima-pagina.png" x="4" y="1" width="50" height="50" on-touch="_NEXT_PAGE" />
-      <agent text="ao cair da noite o programador junior finalmente achaou o problema... empolgado ligou para  " color="blue" x="15" y="410"/>
+      <agent text="ao cair da noite o programador junior finalmente achaou o problema... empolgado ligou para o senior e disse, você esqueceu de printar... " color="white" x="15" y="410"/>
       <agent img="Sign_2.png" x="400" y="1" width="100" height="100" on-touch="_NEXT_PAGE"/>
+
+     </page>
+    
+
+    
     
     
     

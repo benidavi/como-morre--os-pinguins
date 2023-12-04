@@ -1,6 +1,6 @@
 <fable>
 	<page background="polo-norte.jpeg" >
-      <agent x= "20" y = "20" 
+      <agent x= "20" y = "20" font-size= "10" color="azure" text= "certa vez"
         <agent img="proxima-pagina.png" x="450" y="150" width="50" height="50" on-touch="_NEXT_PAGE" />
 
     </page>

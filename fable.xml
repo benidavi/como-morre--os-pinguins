@@ -22,7 +22,7 @@
       
       <agent img="programador.png" x="250" y="90" width="100" height="200"/>
       <agent img="proxima-pagina.png" x="4" y="1" width="50" height="50" on-touch="_NEXT_PAGE" />
-      <agent text="ao cair da noite, o senior protamente fez o programa, porém ele deixou uma pegadinha para que o programador júnior resolvesse" color="white" x="15" y="410"/>
+      <agent text="ao cair da noite, o senior prontamente fez o programa, porém ele deixou uma pegadinha para que o programador júnior resolvesse" color="white" x="15" y="410"/>
       <agent img="Sign_2.png" x="400" y="1" width="100" height="100" on-touch="_NEXT_PAGE"/>
 
     </page>
@@ -44,9 +44,9 @@
 
      </page>
       <page background="pinguim morto.jpeg" >
-      <agent img="pinguim junior.png" x="250" y="90" width="100" height="200"/>
+      
       <agent img="proxima-pagina.png" x="4" y="1" width="50" height="50" on-touch="_NEXT_PAGE" />
-      <agent text="e assim morre mais um pinguim... " color="white" x="15" y="410"/>
+      <agent text="e assim morre mais um pinguim... " color="black" x="15" y="410"/>
       <agent img="Sign_2.png" x="400" y="1" width="100" height="100" on-touch="_NEXT_PAGE"/>
 
     

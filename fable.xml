@@ -18,6 +18,13 @@
       <agent img="Sign_2.png" x="400" y="1" width="100" height="100" on-touch="_NEXT_PAGE"/>
 
       </page>
+    <page background="bg_neve.png" >
+      <agent x= "20" y = "20" font-size= "10" color="white" text= "certa vez"
+      <agent img="programador.png" x="350" y="90" width="100" height="200"/>
+      <agent img="pinguim junior.png" x="40" y="90" width="100" height="200"/>
+      <agent img="proxima-pagina.png" x="4" y="1" width="50" height="50" on-touch="_NEXT_PAGE" />
+      <agent text="Eles queriam saber a taxa de mortalidade de pinguins, logo o programador senior pensou, vou criar um programa que me entrega esses dados..." color="blue" x="15" y="400"/>
+      <agent img="Sign_2.png" x="400" y="1" width="100" height="100" on-touch="_NEXT_PAGE"/>
     
     
     

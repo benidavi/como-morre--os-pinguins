@@ -1,11 +1,13 @@
 <fable>
 	<page background="polo-norte.jpeg" >
       <agent x= "20" y = "20" font-size= "10" color="azure" text= "certa vez"
-         <agent img="programador.png" x="350" y="90" width="100" height="200"/>
-           <agent img="pinguim junior.png" x="40" y="90" width="100" height="100"/>
-        <agent img="proxima-pagina.png" x="4" y="1" width="50" height="50" on-touch="_NEXT_PAGE" />
-        <agent text="certa vez no polo norte se iniciu uma grande discursão, entre dois pinguins programadores..." color="blue" x="15" y="400"/>
+      <agent img="programador.png" x="350" y="90" width="100" height="200"/>
+      <agent img="pinguim junior.png" x="40" y="90" width="100" height="200"/>
+      <agent img="proxima-pagina.png" x="4" y="1" width="50" height="50" on-touch="_NEXT_PAGE" />
+      <agent text="certa vez no polo norte se iniciu uma grande discursão, entre dois pinguins programadores..." color="blue" x="15" y="400"/>
     </page>
+
+    
     
     
     

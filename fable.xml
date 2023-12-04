@@ -29,7 +29,7 @@
 
     <page background="polo-norte.jpeg" >
 
-      <agent img = "SnowMan.png" x = ""
+      <agent img = "SnowMan.png" x = "250" y ="90" width="100" height="200" />
       <agent img="programador.png" x="350" y="90" width="100" height="200"/>
       <agent img="pinguim junior.png" x="40" y="90" width="100" height="200"/>
       <agent img="proxima-pagina.png" x="4" y="1" width="50" height="50" on-touch="_NEXT_PAGE" />
